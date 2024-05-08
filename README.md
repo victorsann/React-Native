@@ -12,29 +12,29 @@ Iniciar um projeto utilizando a React Native CLI é recomendado quando houver a 
 
 Como resultado será criada a seguite estrutura de diretórios e arquivos:
 
-    project-name
-    |
-    ├── _test_
-    ├── .bundle -----------------
-    ├── android -----------------
-    ├── ios
-    ├── node_modules
-    ├── .eslintcr.js
-    ├── .gitignore
-    ├── .prettierrc.js
-    ├── .watchmanconfig
-    ├── app.json
-    ├── App.tsx
-    ├── babel.config.js
-    ├── Gamfile
-    ├── index.js
-    ├── jest.config.js
-    ├── metro.config.js
-    ├── package-lock.json
-    ├── package.json
-    ├── README.md
-    ├── tsconfig.json
-    |__ yarn.lock
+> project-name
+> |
+> ├── _test_
+> ├── .bundle -----------------
+> ├── android -----------------
+> ├── ios
+> ├── node_modules
+> ├── .eslintcr.js
+> ├── .gitignore
+> ├── .prettierrc.js
+> ├── .watchmanconfig
+> ├── app.json
+> ├── App.tsx
+> ├── babel.config.js
+> ├── Gamfile
+> ├── index.js
+> ├── jest.config.js
+> ├── metro.config.js
+> ├── package-lock.json
+> ├── package.json
+> ├── README.md
+> ├── tsconfig.json
+> |\_\_ yarn.lock
 
 <h1>Expo GO</h1>
 
